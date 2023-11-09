@@ -1,5 +1,6 @@
 <template>
   <HeaderApp />
+  <MainApp/>
 </template>
 
 <script>
