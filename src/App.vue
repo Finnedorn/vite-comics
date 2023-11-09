@@ -1,7 +1,5 @@
 <template>
   <HeaderApp />
-  <MainApp />
-  <FooterApp />
 </template>
 
 <script>
