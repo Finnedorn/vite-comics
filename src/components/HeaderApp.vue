@@ -3,7 +3,7 @@
     <div class="container d-flex justify-content-between py-3">
       <!--logo-->
       <div class="logo-wrapper">
-        <img src="/public/img/dc-logo.png" alt="dc-logo">
+        <img src="/img/dc-logo.png" alt="dc-logo">
       </div>
       <!--navbar-->
       <nav class="navbar navbar-expand-lg">
@@ -50,10 +50,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.bg-my-white {
-  background-color: var(--light);
-}
-
 .nav-font {
   font-size: 0.7rem;
   font-weight: bolder;
