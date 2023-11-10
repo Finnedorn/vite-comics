@@ -122,23 +122,23 @@ export default {
             ],
             iconsArr: [
                 {
-                    picture: "/public/img/footer-facebook.png",
+                    picture: "/img/footer-facebook.png",
                     info: "footer-facebook.png"
                 },
                 {
-                    picture: "/public/img/footer-periscope.png",
+                    picture: "/img/footer-periscope.png",
                     info: "footer-periscope.png"
                 },
                 {
-                    picture: "/public/img/footer-pinterest.png",
+                    picture: "/img/footer-pinterest.png",
                     info: "footer-pinterest.png"
                 },
                 {
-                    picture: "/public/img/footer-twitter.png",
+                    picture: "/img/footer-twitter.png",
                     info: "footer-twitter.png"
                 },
                 {
-                    picture: "/public/img/footer-youtube.png",
+                    picture: "/img/footer-youtube.png",
                     info: "footer-youtube.png"
                 }
             ]
