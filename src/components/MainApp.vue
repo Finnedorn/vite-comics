@@ -1,7 +1,6 @@
 <template>
     <main class=" position-relative ">
         <div class="container-fluid top-main">
-
         </div>
         <div class="title-wrapper p-2 px-3 position-absolute ">
             <h4 class="font-my-light">
